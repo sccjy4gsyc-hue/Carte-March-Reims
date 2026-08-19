@@ -1,0 +1,8 @@
+streamlit
+streamlit-folium
+pandas
+requests
+shapely
+folium
+openpyxl
+branca
